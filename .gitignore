@@ -1,1 +1,4 @@
 sample_file_for_ignore.txt
+*.html
+*.txt
+*.doc
