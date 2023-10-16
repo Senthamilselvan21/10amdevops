@@ -1,0 +1,2 @@
+This file is used to perform pull operation from remote to local repository.
+The command is git pull 
